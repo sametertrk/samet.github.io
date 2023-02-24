@@ -1,0 +1,93 @@
+body{
+    padding: 0px;
+    margin: 0px;}
+
+#container{width: 900px;
+    height: auto;
+    margin: auto;
+    font-family: tahoma;
+    margin-top: 10px;
+}
+
+header{width: 900px;
+    height: 235px;
+    padding: 0px;
+background-color: white;
+}
+
+header ul{margin: 0px;
+padding: 0px;
+}
+
+header ul li{list-style-type: none;
+float: left;
+}
+
+header ul li a{text-decoration: none;
+font-size: 12px;
+line-height: 35px;
+font-weight: bold;
+color: black;
+background-color: white;
+width: 300px;
+display: block;
+text-align: center;
+}
+
+header li a:hover{background-color: #F66A31;
+}
+
+#banner{border: 1px solid #F66A31;
+}
+
+nav{width: 900px;
+    height: 35px;
+    padding: 0px;
+background-color: white;
+}
+
+nav ul{margin: 0px;
+padding: 0px;
+}
+
+nav ul li{list-style-type: none;
+float: left;
+}
+
+nav ul li a{text-decoration: none;
+font-size: 12px;
+line-height: 35px;
+font-weight: bold;
+color: black;
+background-color: white;
+width: 300px;
+display: block;
+text-align: center;
+}
+
+nav li a:hover{background-color: #F66A31;
+}
+
+section{width: 900px;
+height: auto;
+background-color: #FFF;
+float: left;}
+
+aside{
+    background-color: white;
+    width: 900px;
+    border: 1px solid #F66A31;
+    height: 650px;
+float: left;}
+
+footer{background-color: #F66A31;
+    width: 902px;
+    height: 20px;
+    float: left;
+    text-align: center;
+}
+
+.satis1{width: 215px;
+    margin: 2px;
+    border: 1px solid #F66A31;
+height: 215px;}
